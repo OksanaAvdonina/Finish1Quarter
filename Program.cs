@@ -22,7 +22,7 @@ void PrintNewArr(string[] arr, int count)
         if (arr[i].Length <= 3)
         {
             newArr[j] = arr[i];
-            Console.Write($"|{newArr[j]}| ");
+            Console.Write($"/{newArr[j]}/ ");
             j++;
         }
 }
