@@ -1,0 +1,15 @@
+D:\GIT\1finich\bin\Debug\net6.0\1finich.exe
+D:\GIT\1finich\bin\Debug\net6.0\1finich.deps.json
+D:\GIT\1finich\bin\Debug\net6.0\1finich.runtimeconfig.json
+D:\GIT\1finich\bin\Debug\net6.0\1finich.dll
+D:\GIT\1finich\bin\Debug\net6.0\1finich.pdb
+D:\GIT\1finich\obj\Debug\net6.0\1finich.csproj.AssemblyReference.cache
+D:\GIT\1finich\obj\Debug\net6.0\1finich.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\1finich\obj\Debug\net6.0\1finich.AssemblyInfoInputs.cache
+D:\GIT\1finich\obj\Debug\net6.0\1finich.AssemblyInfo.cs
+D:\GIT\1finich\obj\Debug\net6.0\1finich.csproj.CoreCompileInputs.cache
+D:\GIT\1finich\obj\Debug\net6.0\1finich.dll
+D:\GIT\1finich\obj\Debug\net6.0\refint\1finich.dll
+D:\GIT\1finich\obj\Debug\net6.0\1finich.pdb
+D:\GIT\1finich\obj\Debug\net6.0\1finich.genruntimeconfig.cache
+D:\GIT\1finich\obj\Debug\net6.0\ref\1finich.dll
